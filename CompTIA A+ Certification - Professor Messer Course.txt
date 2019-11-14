@@ -1,0 +1,107 @@
+CompTIA A+ Certification - Professor Messer Course
+
+			Section 1
+
+Laptop Hardware 1.1:
+
+	Desktop 3.5 inch hard drive
+	SSD(Solid-state drive) 2.5 inch commonly used in laptops
+		All memory, no moving parts
+		Silent, fast access time, less latency
+		2.5 and 1.8 inch form factors
+	Hybrid drive (sshd)
+		Solid-state hybrid drive
+		Flash memory and hard drive storage
+		SSD caches the hard drive data
+	Magnetic disk
+		Traditional spinnging drive platters
+	All internal
+		Open a cover on the back
+		Open the enitre laptop
+	
+	SO-DIMM - small outline dual in-line memory module
+	Micro-DIMM - micro-dual in-line memory module
+	Memory used in laptops and mobile devices
+
+	Integrated card reader
+		Built into laptop
+	External reader
+		Usb connected
+
+	Optical drive
+		Too large for today's portable devices
+			Becoming difficult to find
+		Often removable
+			Replace with other media
+		Read and write CD-RW/CD-ROM and DVD-RW/DVD-ROM
+			In a portable device
+
+	WLAN - wireless local area network card
+	WWAN - wireless cellular card
+	WPAN - wireless personal area network card
+
+	Video Card
+		Often built into processor
+			not upgradable
+		Sometimes part of the system board
+			not upgradable
+		Some laptops have upgradable video cards
+			not the slimline models
+
+	Screen
+		LCD (Liquid Crystal Display)
+			Light and high-res
+			Very fragile
+			Res is fixed
+			Changes to native res may look blury
+
+	Laptop Power - AC adapters
+		Auto-switching or fixed input
+		Converts AC to DC
+		Input voltage
+			110 volts
+			220 volts
+		DC jack on the laptop
+		Specific to the power supply
+
+	Laptop Power - Batteries
+		Lithium Ion (Li-ion)
+			Common in consumer electronics
+			No "memory effect"
+			Charging the battery diminishes capacity
+		Different form factor for each laptop
+
+	Laptop Frame
+		Plastic
+			Lightweight, mobile
+			Durable, difficult to break
+			Inexpensive, cost-effective
+		Metal
+			Morw durable than plastic
+			Can be more difficult to repair
+
+	Speaker
+		Self-contained
+			portable audio
+		Not the highest quality
+		Often stereo
+			may include sub
+
+	System board
+		Proprietary
+			built to fit
+		Replacement isn't easy
+			Swap the entire board
+			Most components are on the system board
+
+	CPU
+		Designed for mobility
+			power management
+		Integrated features
+			memory controller
+			video controller
+		Not very upgradable
+			replaceable, but not upgradable
+		Slower than desktops
+			size and heat are disadvantages
+		
